@@ -2,11 +2,16 @@
 ArrayList - класс реализует функционал динамического массива
 реализует интерфейс List
 
-
 LinkedList - класс реализует функционал связанного списка
 
-
+Map
 HashMap
-
 LinkedHashMap
+TreeMap
+
+Set
+HashSet
+LinkedHashSet
+TreeSet
+
 
