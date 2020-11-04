@@ -14,4 +14,9 @@ HashSet
 LinkedHashSet
 TreeSet
 
+Методы hashCode и equals
+Коллизии
+
+
+
 
