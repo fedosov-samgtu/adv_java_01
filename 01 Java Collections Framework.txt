@@ -17,6 +17,5 @@ TreeSet
 Методы hashCode и equals
 Коллизии
 
-
-
+Comparator
 
