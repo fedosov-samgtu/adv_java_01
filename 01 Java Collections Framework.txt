@@ -9,7 +9,7 @@ HashMap
 LinkedHashMap
 TreeMap
 
-Set
+Set множество
 HashSet
 LinkedHashSet
 TreeSet
@@ -21,4 +21,6 @@ Comparator
 
 Comparable
 
+Queue очередь
 
+Stack Стек
