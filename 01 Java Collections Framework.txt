@@ -24,3 +24,8 @@ Comparable
 Queue очередь
 
 Stack Стек
+
+Iterable Интерфейс
+
+
+
