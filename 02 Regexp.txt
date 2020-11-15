@@ -32,7 +32,16 @@ https://regexlib.com/CheatSheet.aspx
         {2,4} - от 2 до 4 символов (\\d{2,4}) от 2 до 4 цифр
 
 
-
-
-
          */
+
+
+split
+
+replace - строки
+replaceAll - регуярные выражения
+
+Классы Pattern и Matcher
+
+вложенные группы
+
+
